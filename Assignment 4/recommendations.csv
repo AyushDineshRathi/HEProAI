@@ -1,0 +1,616 @@
+student_id,gpa,Cluster_Label,Assigned_Mentor,Intervention,Alert_Status
+S001,6.82,Average,Prof. Bob Jones,Skill Building,No
+S002,9.68,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S003,7.98,Average,Prof. Bob Jones,Skill Building,No
+S004,9.8,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S005,7.47,Average,Prof. Bob Jones,Skill Building,No
+S006,6.83,Average,Prof. Bob Jones,Skill Building,No
+S007,8.0,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S008,4.24,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S009,7.01,Average,Mrs. Emily White,Internship Prep,No
+S010,5.08,Struggling,Mr. Jack Black,Extra Office Hours,No
+S011,8.26,Average,Prof. Bob Jones,Skill Building,No
+S012,6.64,Average,Prof. Bob Jones,Skill Building,No
+S013,6.69,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S014,8.46,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S015,4.84,Average,Prof. Bob Jones,Skill Building,No
+S016,9.39,Average,Ms. Ivy Green,Internship Prep,No
+S017,0.91,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S018,7.56,Average,Mrs. Emily White,Internship Prep,No
+S019,4.84,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S020,8.78,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S021,4.69,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S022,3.34,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S023,4.25,Struggling,Mr. Jack Black,Extra Office Hours,No
+S024,6.85,Average,Prof. Bob Jones,Skill Building,No
+S025,7.42,Average,Prof. Bob Jones,Skill Building,No
+S026,8.98,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S027,6.85,Average,Prof. Bob Jones,Skill Building,No
+S028,5.44,Average,Prof. Bob Jones,Skill Building,No
+S029,9.87,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S030,7.29,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S031,8.79,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S032,0.73,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S033,9.33,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S034,9.46,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S035,8.1,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S036,9.39,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S037,8.6,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S038,5.49,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S039,9.55,Average,Mrs. Emily White,Internship Prep,No
+S040,4.91,Average,Prof. Bob Jones,Skill Building,No
+S041,9.98,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S042,9.78,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S043,7.91,Struggling,Mr. Jack Black,Extra Office Hours,No
+S044,5.72,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S045,6.92,Average,Mrs. Emily White,Internship Prep,No
+S046,5.84,Average,Prof. Bob Jones,Skill Building,No
+S047,7.24,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S048,7.85,Average,Prof. Bob Jones,Skill Building,No
+S049,9.15,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S050,4.26,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S051,8.98,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S052,8.82,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S053,9.26,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S054,9.92,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S055,6.84,Average,Prof. Bob Jones,Skill Building,No
+S056,7.42,Average,Prof. Bob Jones,Skill Building,No
+S057,9.05,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S058,7.4,Average,Prof. Bob Jones,Skill Building,No
+S059,5.18,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S060,5.84,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S061,5.27,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S062,5.83,Average,Prof. Bob Jones,Skill Building,No
+S063,8.56,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S064,5.78,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S065,6.92,Struggling,Mr. Jack Black,Extra Office Hours,No
+S066,1.28,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S067,8.91,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S068,9.05,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S069,4.35,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S070,8.08,Average,Prof. Bob Jones,Skill Building,No
+S071,1.27,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S072,9.1,Average,Ms. Ivy Green,Internship Prep,No
+S073,7.59,Average,Mrs. Emily White,Internship Prep,No
+S074,8.84,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S075,9.11,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S076,9.03,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S077,8.21,Average,Ms. Ivy Green,Internship Prep,No
+S078,8.96,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S079,9.74,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S080,8.73,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S081,4.09,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S082,8.8,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S083,5.06,Average,Ms. Ivy Green,Internship Prep,No
+S084,1.65,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S085,9.21,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S086,6.49,Average,Mrs. Emily White,Internship Prep,No
+S087,8.48,Average,Prof. Bob Jones,Skill Building,No
+S088,7.04,Average,Prof. Bob Jones,Skill Building,No
+S089,9.23,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S090,8.67,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S091,6.72,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S092,8.03,Average,Prof. Bob Jones,Skill Building,No
+S093,8.45,Average,Prof. Bob Jones,Skill Building,No
+S094,7.09,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S095,9.0,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S096,6.69,Average,Prof. Bob Jones,Skill Building,No
+S097,8.78,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S098,8.33,Average,Prof. Bob Jones,Skill Building,No
+S099,9.88,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S100,8.87,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S101,5.08,Average,Prof. Bob Jones,Skill Building,No
+S102,6.86,Average,Ms. Ivy Green,Internship Prep,No
+S103,6.9,Struggling,Mr. Jack Black,Extra Office Hours,No
+S104,4.06,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S105,7.2,Average,Prof. Bob Jones,Skill Building,No
+S106,9.17,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S107,8.77,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S108,7.1,Average,Prof. Bob Jones,Skill Building,No
+S109,3.49,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S110,7.88,Average,Prof. Bob Jones,Skill Building,No
+S111,7.21,Average,Prof. Bob Jones,Skill Building,No
+S112,5.79,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S113,5.85,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S114,0.02,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S115,8.04,Average,Prof. Bob Jones,Skill Building,No
+S116,5.46,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S117,8.81,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S118,8.71,Average,Mrs. Emily White,Internship Prep,No
+S119,6.5,Average,Prof. Bob Jones,Skill Building,No
+S120,7.89,Average,Prof. Bob Jones,Skill Building,No
+S121,6.2,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S122,8.52,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S123,8.22,Average,Prof. Bob Jones,Skill Building,No
+S124,7.02,Average,Mrs. Emily White,Internship Prep,No
+S125,7.91,Average,Prof. Bob Jones,Skill Building,No
+S126,6.57,Average,Prof. Bob Jones,Skill Building,No
+S127,9.88,Average,Ms. Ivy Green,Internship Prep,No
+S128,9.49,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S129,9.48,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S130,5.52,Struggling,Mr. Jack Black,Extra Office Hours,No
+S131,5.65,Average,Mrs. Emily White,Internship Prep,No
+S132,3.64,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S133,6.98,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S134,9.08,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S135,9.49,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S136,9.93,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S137,7.54,Average,Prof. Bob Jones,Skill Building,No
+S138,5.47,Average,Ms. Ivy Green,Internship Prep,No
+S139,9.96,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S140,6.54,Average,Prof. Bob Jones,Skill Building,No
+S141,6.56,Average,Prof. Bob Jones,Skill Building,No
+S142,9.29,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S143,9.7,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S144,8.72,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S145,7.23,Average,Prof. Bob Jones,Skill Building,No
+S146,8.49,Average,Prof. Bob Jones,Skill Building,No
+S147,8.22,Average,Mrs. Emily White,Internship Prep,No
+S148,1.25,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S149,8.24,Average,Prof. Bob Jones,Skill Building,No
+S150,5.99,Struggling,Mr. Jack Black,Extra Office Hours,No
+S151,4.69,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S152,7.2,Average,Prof. Bob Jones,Skill Building,No
+S153,5.81,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S154,6.31,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S155,9.31,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S156,6.75,Average,Prof. Bob Jones,Skill Building,No
+S157,5.73,Average,Prof. Bob Jones,Skill Building,No
+S158,8.69,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S159,6.85,Average,Prof. Bob Jones,Skill Building,No
+S160,5.67,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S161,7.18,Average,Prof. Bob Jones,Skill Building,No
+S162,4.18,Struggling,Mr. Jack Black,Extra Office Hours,No
+S163,9.45,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S164,6.48,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S165,8.07,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S166,6.78,Average,Prof. Bob Jones,Skill Building,No
+S167,6.64,Average,Prof. Bob Jones,Skill Building,No
+S168,9.74,Average,Ms. Ivy Green,Internship Prep,No
+S169,4.95,Struggling,Mr. Jack Black,Extra Office Hours,No
+S170,4.73,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S171,9.98,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S172,5.83,Average,Ms. Ivy Green,Internship Prep,No
+S173,9.3,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S174,8.51,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S175,6.56,Average,Mrs. Emily White,Internship Prep,No
+S176,1.49,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S177,6.04,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S178,9.34,Average,Mrs. Emily White,Internship Prep,No
+S179,5.92,Average,Ms. Ivy Green,Internship Prep,No
+S180,4.97,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S181,8.48,Average,Prof. Bob Jones,Skill Building,No
+S182,8.21,Average,Mrs. Emily White,Internship Prep,No
+S183,2.52,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S184,9.2,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S185,5.6,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S186,8.0,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S187,8.19,Average,Waitlist (Capacity Full),Skill Building,No
+S188,6.28,Average,Mrs. Emily White,Internship Prep,No
+S189,4.6,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S190,8.93,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S191,7.09,Struggling,Mr. Jack Black,Extra Office Hours,No
+S192,6.5,Average,Mrs. Emily White,Internship Prep,No
+S193,6.34,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S194,6.76,Average,Waitlist (Capacity Full),Skill Building,No
+S195,9.99,High Performer,Dr. David Wilson,Research Projects & Mentorship,No
+S196,9.58,High Performer,Prof. Henry Brown,Research Projects & Mentorship,No
+S197,5.15,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S198,9.27,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S199,4.81,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S200,3.53,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S201,5.95,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S202,7.8,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S203,7.07,Average,Waitlist (Capacity Full),Skill Building,No
+S204,6.53,Average,Waitlist (Capacity Full),Skill Building,No
+S205,8.97,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S206,7.26,Average,Mrs. Emily White,Internship Prep,No
+S207,1.63,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S208,7.34,Average,Waitlist (Capacity Full),Skill Building,No
+S209,4.33,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S210,5.74,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S211,6.77,Average,Waitlist (Capacity Full),Skill Building,No
+S212,8.27,Struggling,Mr. Jack Black,Extra Office Hours,No
+S213,7.07,Average,Waitlist (Capacity Full),Skill Building,No
+S214,9.62,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S215,8.46,Average,Waitlist (Capacity Full),Skill Building,No
+S216,9.97,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S217,5.88,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S218,7.1,Average,Ms. Ivy Green,Internship Prep,No
+S219,7.21,Average,Mrs. Emily White,Internship Prep,No
+S220,7.09,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S221,8.54,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S222,7.72,Average,Waitlist (Capacity Full),Skill Building,No
+S223,8.17,Average,Ms. Ivy Green,Internship Prep,No
+S224,5.68,Struggling,Mr. Jack Black,Extra Office Hours,No
+S225,6.94,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S226,5.13,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S227,8.8,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S228,9.85,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S229,7.43,Struggling,Mr. Jack Black,Extra Office Hours,No
+S230,6.67,Average,Waitlist (Capacity Full),Skill Building,No
+S231,7.94,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S232,7.99,Average,Mrs. Emily White,Internship Prep,No
+S233,9.73,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S234,8.05,Average,Waitlist (Capacity Full),Skill Building,No
+S235,6.58,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S236,2.89,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S237,6.09,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S238,1.0,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S239,9.66,Average,Mrs. Emily White,Internship Prep,No
+S240,7.9,Average,Waitlist (Capacity Full),Skill Building,No
+S241,7.67,Struggling,Mr. Jack Black,Extra Office Hours,No
+S242,9.7,Average,Ms. Ivy Green,Internship Prep,No
+S243,5.15,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S244,6.12,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S245,1.89,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S246,8.75,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S247,7.53,Average,Mrs. Emily White,Internship Prep,No
+S248,5.78,Average,Ms. Ivy Green,Internship Prep,No
+S249,7.91,Average,Waitlist (Capacity Full),Skill Building,No
+S250,1.17,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S251,4.13,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S252,8.5,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S253,5.14,Struggling,Mr. Jack Black,Extra Office Hours,No
+S254,8.77,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S255,6.77,Average,Ms. Ivy Green,Internship Prep,No
+S256,8.54,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S257,3.66,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S258,5.57,Average,Mrs. Emily White,Internship Prep,No
+S259,8.35,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S260,8.55,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S261,9.24,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S262,6.7,Average,Waitlist (Capacity Full),Skill Building,No
+S263,6.08,Average,Ms. Ivy Green,Internship Prep,No
+S264,9.06,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S265,9.49,Average,Mrs. Emily White,Internship Prep,No
+S266,9.98,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S267,3.79,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S268,1.38,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S269,6.53,Average,Waitlist (Capacity Full),Skill Building,No
+S270,8.15,Average,Ms. Ivy Green,Internship Prep,No
+S271,5.97,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S272,8.87,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S273,4.45,Average,Waitlist (Capacity Full),Skill Building,No
+S274,5.81,Average,Waitlist (Capacity Full),Skill Building,No
+S275,8.75,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S276,8.5,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S277,4.17,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S278,7.85,Average,Mrs. Emily White,Internship Prep,No
+S279,5.87,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S280,6.9,Average,Waitlist (Capacity Full),Skill Building,No
+S281,9.33,Average,Ms. Ivy Green,Internship Prep,No
+S282,4.26,Struggling,Mr. Jack Black,Extra Office Hours,No
+S283,4.01,Average,Mrs. Emily White,Internship Prep,No
+S284,6.97,Average,Waitlist (Capacity Full),Skill Building,No
+S285,4.01,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S286,6.99,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S287,5.7,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S288,7.59,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S289,9.26,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S290,9.93,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S291,9.71,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S292,8.36,Struggling,Mr. Jack Black,Extra Office Hours,No
+S293,7.72,Average,Waitlist (Capacity Full),Skill Building,No
+S294,9.87,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S295,6.44,Average,Ms. Ivy Green,Internship Prep,No
+S296,5.14,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S297,7.84,Average,Waitlist (Capacity Full),Skill Building,No
+S298,7.09,Average,Mrs. Emily White,Internship Prep,No
+S299,4.69,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S300,6.53,Average,Waitlist (Capacity Full),Skill Building,No
+S301,4.03,Struggling,Mr. Jack Black,Extra Office Hours,No
+S302,5.62,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S303,8.12,Average,Waitlist (Capacity Full),Skill Building,No
+S304,8.4,Average,Waitlist (Capacity Full),Skill Building,No
+S305,9.36,Average,Ms. Ivy Green,Internship Prep,No
+S306,6.9,Average,Waitlist (Capacity Full),Skill Building,No
+S307,8.03,Average,Waitlist (Capacity Full),Skill Building,No
+S308,8.33,Average,Waitlist (Capacity Full),Skill Building,No
+S309,6.64,Average,Waitlist (Capacity Full),Skill Building,No
+S310,8.08,Average,Mrs. Emily White,Internship Prep,No
+S311,6.49,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S312,9.4,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S313,4.8,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S314,9.11,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S315,6.96,Average,Waitlist (Capacity Full),Skill Building,No
+S316,4.19,Struggling,Mr. Jack Black,Extra Office Hours,No
+S317,4.35,Average,Waitlist (Capacity Full),Skill Building,No
+S318,4.61,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S319,8.9,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S320,0.25,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S321,8.98,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S322,4.43,Struggling,Mr. Jack Black,Extra Office Hours,No
+S323,9.39,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S324,7.62,Average,Waitlist (Capacity Full),Skill Building,No
+S325,8.78,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S326,9.72,Average,Mrs. Emily White,Internship Prep,No
+S327,4.02,Average,Ms. Ivy Green,Internship Prep,No
+S328,7.97,Average,Waitlist (Capacity Full),Skill Building,No
+S329,6.33,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S330,6.17,Average,Mrs. Emily White,Internship Prep,No
+S331,9.48,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S332,10.0,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S333,9.05,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S334,9.2,Average,Ms. Ivy Green,Internship Prep,No
+S335,5.64,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S336,1.03,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S337,9.03,Average,Ms. Ivy Green,Internship Prep,No
+S338,6.83,Average,Waitlist (Capacity Full),Skill Building,No
+S339,7.4,Average,Waitlist (Capacity Full),Skill Building,No
+S340,6.03,Struggling,Mr. Jack Black,Extra Office Hours,No
+S341,9.16,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S342,5.32,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S343,9.72,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S344,4.86,Average,Ms. Ivy Green,Internship Prep,No
+S345,9.23,Average,Mrs. Emily White,Internship Prep,No
+S346,6.78,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S347,7.61,Average,Waitlist (Capacity Full),Skill Building,No
+S348,4.65,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S349,7.2,Average,Mrs. Emily White,Internship Prep,No
+S350,6.5,Average,Ms. Ivy Green,Internship Prep,No
+S351,6.99,Average,Waitlist (Capacity Full),Skill Building,No
+S352,4.17,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S353,4.97,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S354,7.03,Average,Waitlist (Capacity Full),Skill Building,No
+S355,8.97,Average,Mrs. Emily White,Internship Prep,No
+S356,7.78,Average,Waitlist (Capacity Full),Skill Building,No
+S357,7.21,Average,Ms. Ivy Green,Internship Prep,No
+S358,6.68,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S359,9.71,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S360,8.67,Struggling,Mr. Jack Black,Extra Office Hours,No
+S361,6.91,Average,Mrs. Emily White,Internship Prep,No
+S362,4.97,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S363,8.66,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S364,9.63,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S365,8.93,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S366,4.23,Average,Mrs. Emily White,Internship Prep,No
+S367,8.24,Average,Ms. Ivy Green,Internship Prep,No
+S368,4.14,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S369,8.77,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S370,7.86,Average,Waitlist (Capacity Full),Skill Building,No
+S371,6.08,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S372,9.89,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S373,4.14,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S374,5.79,Struggling,Mrs. Emily White,Career Workshop & Academic Planning,No
+S375,5.28,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S376,8.99,Struggling,Mr. Jack Black,Extra Office Hours,No
+S377,8.01,Average,Waitlist (Capacity Full),Skill Building,No
+S378,5.17,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S379,5.65,Struggling,Ms. Ivy Green,Career Workshop & Academic Planning,No
+S380,9.58,Average,Mrs. Emily White,Internship Prep,No
+S381,8.93,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S382,1.77,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S383,8.35,Average,Ms. Ivy Green,Internship Prep,No
+S384,4.6,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S385,6.27,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S386,5.55,Average,Waitlist (Capacity Full),Skill Building,No
+S387,7.38,Average,Waitlist (Capacity Full),Internship Prep,No
+S388,7.08,Average,Waitlist (Capacity Full),Skill Building,No
+S389,7.39,Average,Waitlist (Capacity Full),Skill Building,No
+S390,0.09,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S391,1.73,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S392,6.73,Average,Waitlist (Capacity Full),Skill Building,No
+S393,3.32,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S394,7.24,Average,Waitlist (Capacity Full),Skill Building,No
+S395,8.86,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S396,9.07,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S397,9.4,Struggling,Mr. Jack Black,Extra Office Hours,No
+S398,0.28,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S399,5.19,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S400,9.37,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S401,4.72,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S402,5.95,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S403,7.15,Average,Waitlist (Capacity Full),Skill Building,No
+S404,7.46,Average,Waitlist (Capacity Full),Skill Building,No
+S405,3.3,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S406,9.51,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S407,8.6,Average,Waitlist (Capacity Full),Internship Prep,No
+S408,6.55,Average,Waitlist (Capacity Full),Internship Prep,No
+S409,5.61,Struggling,Mr. Jack Black,Extra Office Hours,No
+S410,1.58,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S411,0.96,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S412,2.1,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S413,7.16,Average,Waitlist (Capacity Full),Skill Building,No
+S414,7.53,Average,Waitlist (Capacity Full),Skill Building,No
+S415,7.9,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S416,9.47,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S417,8.16,Average,Waitlist (Capacity Full),Internship Prep,No
+S418,7.32,Average,Waitlist (Capacity Full),Internship Prep,No
+S419,4.14,Struggling,Mr. Jack Black,Extra Office Hours,No
+S420,7.55,Average,Waitlist (Capacity Full),Skill Building,No
+S421,8.4,Average,Waitlist (Capacity Full),Skill Building,No
+S422,9.46,Average,Waitlist (Capacity Full),Internship Prep,No
+S423,4.13,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S424,0.83,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S425,0.89,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S426,5.86,Average,Waitlist (Capacity Full),Internship Prep,No
+S427,3.06,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S428,7.43,Average,Waitlist (Capacity Full),Skill Building,No
+S429,9.22,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S430,6.57,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S431,8.52,Struggling,Mr. Jack Black,Extra Office Hours,No
+S432,8.67,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S433,8.44,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S434,5.48,Average,Waitlist (Capacity Full),Internship Prep,No
+S435,7.76,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S436,9.54,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S437,4.91,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S438,8.15,Average,Waitlist (Capacity Full),Skill Building,No
+S439,0.04,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S440,7.95,Average,Waitlist (Capacity Full),Internship Prep,No
+S441,8.87,Average,Waitlist (Capacity Full),Internship Prep,No
+S442,8.23,Struggling,Mr. Jack Black,Extra Office Hours,No
+S443,2.33,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S444,8.77,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S445,7.17,Average,Waitlist (Capacity Full),Skill Building,No
+S446,9.58,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S447,8.33,Average,Waitlist (Capacity Full),Internship Prep,No
+S448,4.82,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S449,9.74,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S450,9.74,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S451,2.51,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S452,6.91,Average,Waitlist (Capacity Full),Skill Building,No
+S453,7.18,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S454,8.92,Average,Waitlist (Capacity Full),Skill Building,No
+S455,8.66,Average,Waitlist (Capacity Full),Internship Prep,No
+S456,4.45,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S457,4.36,Struggling,Mr. Jack Black,Extra Office Hours,No
+S458,9.54,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S459,8.76,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S460,8.05,Average,Waitlist (Capacity Full),Skill Building,No
+S461,9.06,Average,Waitlist (Capacity Full),Internship Prep,No
+S462,2.72,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S463,8.37,Average,Waitlist (Capacity Full),Internship Prep,No
+S464,1.83,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S465,8.2,Average,Waitlist (Capacity Full),Skill Building,No
+S466,1.01,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S467,7.54,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S468,4.43,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S469,8.93,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S470,9.94,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S471,9.38,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S472,7.65,Average,Waitlist (Capacity Full),Skill Building,No
+S473,2.19,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S474,9.9,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S475,7.47,Average,Waitlist (Capacity Full),Skill Building,No
+S476,6.32,Struggling,Mr. Jack Black,Extra Office Hours,No
+S477,9.63,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S478,9.27,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S479,5.5,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S480,1.79,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S481,7.52,Average,Waitlist (Capacity Full),Skill Building,No
+S482,8.13,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S483,3.67,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S484,9.06,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S485,9.8,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S486,5.01,Average,Waitlist (Capacity Full),Internship Prep,No
+S487,5.99,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S488,7.2,Average,Waitlist (Capacity Full),Skill Building,No
+S489,6.92,Average,Waitlist (Capacity Full),Skill Building,No
+S490,9.35,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S491,7.59,Average,Waitlist (Capacity Full),Skill Building,No
+S492,7.14,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S493,8.67,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S494,8.79,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S495,8.07,Average,Waitlist (Capacity Full),Internship Prep,No
+S496,1.28,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S497,8.59,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S498,5.14,Average,Waitlist (Capacity Full),Skill Building,No
+S499,7.31,Average,Waitlist (Capacity Full),Skill Building,No
+S500,8.86,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S501,7.97,Average,Waitlist (Capacity Full),Skill Building,No
+S502,5.87,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S503,7.83,Average,Waitlist (Capacity Full),Skill Building,No
+S504,9.37,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S505,2.28,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S506,8.05,Struggling,Mr. Jack Black,Extra Office Hours,No
+S507,4.82,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S508,9.03,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S509,8.91,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S510,9.28,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S511,8.77,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S512,7.8,Average,Waitlist (Capacity Full),Skill Building,No
+S513,3.91,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S514,9.57,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S515,8.52,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S516,7.32,Struggling,Mr. Jack Black,Extra Office Hours,No
+S517,7.37,Average,Waitlist (Capacity Full),Skill Building,No
+S518,1.71,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S519,9.21,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S520,9.91,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S521,7.08,Average,Waitlist (Capacity Full),Skill Building,No
+S522,6.87,Average,Waitlist (Capacity Full),Skill Building,No
+S523,4.16,Average,Waitlist (Capacity Full),Internship Prep,No
+S524,5.73,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S525,4.92,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S526,2.14,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S527,7.27,Average,Waitlist (Capacity Full),Skill Building,No
+S528,7.4,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S529,7.28,Average,Waitlist (Capacity Full),Internship Prep,No
+S530,9.0,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S531,4.11,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S532,8.4,Average,Waitlist (Capacity Full),Internship Prep,No
+S533,8.4,Average,Waitlist (Capacity Full),Skill Building,No
+S534,8.6,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S535,7.58,Average,Waitlist (Capacity Full),Skill Building,No
+S536,7.16,Average,Waitlist (Capacity Full),Internship Prep,No
+S537,7.51,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S538,7.57,Average,Waitlist (Capacity Full),Skill Building,No
+S539,4.88,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S540,9.9,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S541,8.11,Average,Waitlist (Capacity Full),Skill Building,No
+S542,8.45,Average,Waitlist (Capacity Full),Skill Building,No
+S543,6.53,Average,Waitlist (Capacity Full),Internship Prep,No
+S544,0.88,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S545,7.83,Average,Waitlist (Capacity Full),Internship Prep,No
+S546,3.35,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S547,9.23,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S548,6.92,Struggling,Mr. Jack Black,Extra Office Hours,No
+S549,6.69,Average,Waitlist (Capacity Full),Skill Building,No
+S550,8.35,Average,Waitlist (Capacity Full),Internship Prep,No
+S551,8.78,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S552,5.05,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S553,6.1,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S554,6.0,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S555,9.7,Average,Waitlist (Capacity Full),Internship Prep,No
+S556,6.85,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S557,6.88,Average,Waitlist (Capacity Full),Internship Prep,No
+S558,7.94,Average,Waitlist (Capacity Full),Skill Building,No
+S559,4.33,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S560,1.57,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S561,5.06,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S562,8.46,Average,Waitlist (Capacity Full),Skill Building,No
+S563,6.64,Average,Waitlist (Capacity Full),Skill Building,No
+S564,7.07,Average,Waitlist (Capacity Full),Skill Building,No
+S565,9.11,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S566,6.83,Average,Waitlist (Capacity Full),Skill Building,No
+S567,7.64,Average,Waitlist (Capacity Full),Skill Building,No
+S568,4.25,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S569,1.95,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S570,8.92,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S571,9.26,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S572,9.06,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S573,4.03,Average,Waitlist (Capacity Full),Skill Building,No
+S574,9.41,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S575,8.84,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S576,0.19,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S577,4.42,Struggling,Waitlist (Capacity Full),Career Workshop & Academic Planning,No
+S578,7.57,Average,Waitlist (Capacity Full),Internship Prep,No
+S579,7.95,Average,Waitlist (Capacity Full),Skill Building,No
+S580,8.49,Average,Waitlist (Capacity Full),Skill Building,No
+S581,1.78,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S582,3.1,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S583,7.55,Average,Waitlist (Capacity Full),Skill Building,No
+S584,8.57,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S585,9.2,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S586,1.49,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S587,2.77,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S588,8.51,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S589,6.6,Average,Waitlist (Capacity Full),Internship Prep,No
+S590,7.82,Average,Waitlist (Capacity Full),Skill Building,No
+S591,6.91,Average,Waitlist (Capacity Full),Skill Building,No
+S592,9.81,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S593,5.94,Average,Waitlist (Capacity Full),Internship Prep,No
+S594,2.57,At Risk,Ms. Clara Davis,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S595,8.3,Average,Waitlist (Capacity Full),Internship Prep,No
+S596,5.55,Average,Waitlist (Capacity Full),Internship Prep,No
+S597,8.23,Average,Waitlist (Capacity Full),Internship Prep,No
+S598,9.89,Average,Waitlist (Capacity Full),Internship Prep,No
+S599,6.2,Struggling,Mr. Frank Miller,Extra Office Hours,No
+S600,8.15,Average,Waitlist (Capacity Full),Internship Prep,No
+S601,7.87,Average,Waitlist (Capacity Full),Skill Building,No
+S602,5.65,Average,Waitlist (Capacity Full),Skill Building,No
+S603,8.68,Struggling,Mr. Jack Black,Extra Office Hours,No
+S604,8.71,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S605,9.5,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S606,8.43,Average,Waitlist (Capacity Full),Skill Building,No
+S607,9.58,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S608,6.31,Struggling,Dr. Alice Smith,Extra Office Hours,No
+S609,9.8,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S610,9.24,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
+S611,5.77,Average,Waitlist (Capacity Full),Skill Building,No
+S612,6.73,Average,Waitlist (Capacity Full),Skill Building,No
+S613,8.39,Average,Waitlist (Capacity Full),Skill Building,No
+S614,1.4,At Risk,Dr. Grace Lee,Wellness Counseling + Remedial Support,High Risk - Immediate Attention
+S615,9.01,High Performer,Waitlist (Capacity Full),Research Projects & Mentorship,No
